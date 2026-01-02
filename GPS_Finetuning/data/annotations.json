@@ -3,163 +3,199 @@
     "image_id": 0,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.42.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.42.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97053, 79.27811, 87.4m, 59\u00b0",
+    "date_text": "Dec 28, 2025 13:34:19",
+    "latitude": 15.97053,
+    "longitude": 79.27811,
+    "altitude": 87.4,
+    "direction": 59
   },
   {
     "image_id": 1,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.43 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.43 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97047, 79.27803, 88.3m",
+    "date_text": "Dec 28, 2025 13:34:49",
+    "latitude": 15.97047,
+    "longitude": 79.27803,
+    "altitude": 88.3,
+    "direction": 0
   },
   {
     "image_id": 2,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.43 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.43 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97042, 79.27803, 89.6m, 236\u00b0",
+    "date_text": "Dec 28, 2025 13:34:55",
+    "latitude": 15.97042,
+    "longitude": 79.27803,
+    "altitude": 89.6,
+    "direction": 236
   },
   {
     "image_id": 3,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.43.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.43.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97054, 79.27808, 87.5m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:34:24",
+    "latitude": 15.97054,
+    "longitude": 79.27808,
+    "altitude": 87.5,
+    "direction": 283
   },
   {
     "image_id": 4,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.44 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.44 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97047, 79.27818, 87.9m, 247\u00b0",
+    "date_text": "Dec 28, 2025 13:24:33",
+    "latitude": 15.97047,
+    "longitude": 79.27818,
+    "altitude": 87.9,
+    "direction": 247
   },
   {
     "image_id": 5,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.44 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.44 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97053, 79.27818, 6.0m, 235\u00b0",
+    "date_text": "Dec 28, 2025 13:24:15",
+    "latitude": 15.97053,
+    "longitude": 79.27818,
+    "altitude": 6.0,
+    "direction": 235
   },
   {
     "image_id": 6,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.44 (3).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.44 (3).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97042, 79.27818, 87.4m, 244\u00b0",
+    "date_text": "Dec 28, 2025 13:24:45",
+    "latitude": 15.97042,
+    "longitude": 79.27818,
+    "altitude": 87.4,
+    "direction": 244
   },
   {
     "image_id": 7,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.44.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.44.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97036, 79.27803, 90.8m, 259\u00b0",
+    "date_text": "Dec 28, 2025 13:35:07",
+    "latitude": 15.97036,
+    "longitude": 79.27803,
+    "altitude": 90.8,
+    "direction": 259
   },
   {
     "image_id": 8,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.45 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.45 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97037, 79.27818, 86.8m, 100\u00b0",
+    "date_text": "Dec 28, 2025 13:24:59",
+    "latitude": 15.97037,
+    "longitude": 79.27818,
+    "altitude": 86.8,
+    "direction": 100
   },
   {
     "image_id": 9,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.45 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.45 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97036, 79.27817, 86.9m, 253\u00b0",
+    "date_text": "Dec 28, 2025 13:25:04",
+    "latitude": 15.97036,
+    "longitude": 79.27817,
+    "altitude": 86.9,
+    "direction": 253
   },
   {
     "image_id": 10,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.45.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.45.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97041, 79.27819, 1.0m, 94\u00b0",
+    "date_text": "Dec 28, 2025 13:24:50",
+    "latitude": 15.97041,
+    "longitude": 79.27819,
+    "altitude": 1.0,
+    "direction": 94
   },
   {
     "image_id": 11,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.46 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.46 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97031, 79.27817, 86.6m, 263\u00b0",
+    "date_text": "Dec 28, 2025 13:25:20",
+    "latitude": 15.97031,
+    "longitude": 79.27817,
+    "altitude": 86.6,
+    "direction": 263
   },
   {
     "image_id": 12,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.46.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.46.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97031, 79.27819, 86.7m, 93\u00b0",
+    "date_text": "Dec 28, 2025 13:25:14",
+    "latitude": 15.97031,
+    "longitude": 79.27819,
+    "altitude": 86.7,
+    "direction": 93
   },
   {
     "image_id": 13,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.47 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.47 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97025, 79.27818, 86.9m, 92\u00b0",
+    "date_text": "Dec 28, 2025 13:25:32",
+    "latitude": 15.97025,
+    "longitude": 79.27818,
+    "altitude": 86.9,
+    "direction": 92
   },
   {
     "image_id": 14,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.47 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.47 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97021, 79.27816, 86.7m, 241\u00b0",
+    "date_text": "Dec 28, 2025 13:25:43",
+    "latitude": 15.97021,
+    "longitude": 79.27816,
+    "altitude": 86.7,
+    "direction": 241
   },
   {
     "image_id": 15,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.47.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.47.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97026, 79.27817, 86.8m, 245\u00b0",
+    "date_text": "Dec 28, 2025 13:25:27",
+    "latitude": 15.97026,
+    "longitude": 79.27817,
+    "altitude": 86.8,
+    "direction": 245
   },
   {
     "image_id": 16,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.48 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.48 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97016, 79.27816, 86.2m, 243\u00b0",
+    "date_text": "Dec 28, 2025 13:25:59",
+    "latitude": 15.97016,
+    "longitude": 79.27816,
+    "altitude": 86.2,
+    "direction": 243
   },
   {
     "image_id": 17,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.48.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.48.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.9702, 79.27818, 87.0m, 87\u00b0",
+    "date_text": "Dec 28, 2025 13:25:49",
+    "latitude": 15.9702,
+    "longitude": 79.27818,
+    "altitude": 87.0,
+    "direction": 87
   },
   {
     "image_id": 18,
@@ -174,181 +210,221 @@
     "image_id": 19,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.49 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.49 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97009, 79.27816, 86.6m, 268\u00b0",
+    "date_text": "Dec 28, 2025 13:26:23",
+    "latitude": 15.97009,
+    "longitude": 79.27816,
+    "altitude": 86.6,
+    "direction": 268
   },
   {
     "image_id": 20,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.49.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.49.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97014, 79.27818, 85.7m, 83\u00b0",
+    "date_text": "Dec 28, 2025 13:26:05",
+    "latitude": 15.97014,
+    "longitude": 79.27818,
+    "altitude": 85.7,
+    "direction": 83
   },
   {
     "image_id": 21,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.50.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.50.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97005, 79.27815, 86.7m, 249\u00b0",
+    "date_text": "Dec 28, 2025 13:26:32",
+    "latitude": 15.97005,
+    "longitude": 79.27815,
+    "altitude": 86.7,
+    "direction": 249
   },
   {
     "image_id": 22,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.51 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.51 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97004, 79.27816, 87.1m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:26:42",
+    "latitude": 15.97004,
+    "longitude": 79.27816,
+    "altitude": 87.1,
+    "direction": 80
   },
   {
     "image_id": 23,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.51.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.51.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97048, 79.27811, 87.2m, 89\u00b0",
+    "date_text": "Dec 28, 2025 13:34:10",
+    "latitude": 15.97048,
+    "longitude": 79.27811,
+    "altitude": 87.2,
+    "direction": 89
   },
   {
     "image_id": 24,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.52 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.52 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96996, 79.27814, 88.7m, 63\u00b0",
+    "date_text": "Dec 28, 2025 13:27:01",
+    "latitude": 15.96996,
+    "longitude": 79.27814,
+    "altitude": 88.7,
+    "direction": 63
   },
   {
     "image_id": 25,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.52.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.52.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96998, 79.27814, 87.0m, 272\u00b0",
+    "date_text": "Dec 28, 2025 13:26:53",
+    "latitude": 15.96998,
+    "longitude": 79.27814,
+    "altitude": 87.0,
+    "direction": 272
   },
   {
     "image_id": 26,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.53 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.53 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96993, 79.27815, 87.8m, 95\u00b0",
+    "date_text": "Dec 28 2025 13:27:27",
+    "latitude": 15.96993,
+    "longitude": 79.27815,
+    "altitude": 87.8,
+    "direction": 95
   },
   {
     "image_id": 27,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.53.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.53.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96993, 79.27813, 88.1m, 256\u00b0",
+    "date_text": "Dec 28, 2025 13:27:22",
+    "latitude": 15.96993,
+    "longitude": 79.27813,
+    "altitude": 88.1,
+    "direction": 256
   },
   {
     "image_id": 28,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.54 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.54 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96987, 79.27814, 88.1m, 99\u00b0",
+    "date_text": "Dec 28, 2025 13:27:40",
+    "latitude": 15.96987,
+    "longitude": 79.27814,
+    "altitude": 88.1,
+    "direction": 99
   },
   {
     "image_id": 29,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.54 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.54 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96983, 79.27814, 88.2m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:27:50",
+    "latitude": 15.96983,
+    "longitude": 79.27814,
+    "altitude": 88.2,
+    "direction": 257
   },
   {
     "image_id": 30,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.54.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.54.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96989, 79.27813, 88.1m, 259\u00b0",
+    "date_text": "Dec 28, 2025 13:27:36",
+    "latitude": 15.96989,
+    "longitude": 79.27813,
+    "altitude": 88.1,
+    "direction": 259
   },
   {
     "image_id": 31,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.55.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.55.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96984, 79.27815, 87.1m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:27:55",
+    "latitude": 15.96984,
+    "longitude": 79.27815,
+    "altitude": 87.1,
+    "direction": 80
   },
   {
     "image_id": 32,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.56 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.56 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96979, 79.27814, 85.8m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:28:09",
+    "latitude": 15.96979,
+    "longitude": 79.27814,
+    "altitude": 85.8,
+    "direction": 80
   },
   {
     "image_id": 33,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.56 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.56 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96974, 79.27812, 85.6m, 244\u00b0",
+    "date_text": "Dec 28, 2025 13:28:19",
+    "latitude": 15.96974,
+    "longitude": 79.27812,
+    "altitude": 85.6,
+    "direction": 244
   },
   {
     "image_id": 34,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.56.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.56.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96979, 79.27812, 86.3m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:28:05",
+    "latitude": 15.96979,
+    "longitude": 79.27812,
+    "altitude": 86.3,
+    "direction": 257
   },
   {
     "image_id": 35,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.58 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.58 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96969, 79.27814, 85.2m",
+    "date_text": "Dec 28, 2025 13:28:36",
+    "latitude": 15.96969,
+    "longitude": 79.27814,
+    "altitude": 85.2,
+    "direction": 0
   },
   {
     "image_id": 36,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.58.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.58.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96973, 79.27814, 85.3m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:28:27",
+    "latitude": 15.96973,
+    "longitude": 79.27814,
+    "altitude": 85.3,
+    "direction": 74
   },
   {
     "image_id": 37,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.59 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.59 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96963, 79.27812, 85.9m, 247\u00b0",
+    "date_text": "Dec 28, 2025 13:28:52",
+    "latitude": 15.96963,
+    "longitude": 79.27812,
+    "altitude": 85.9,
+    "direction": 247
   },
   {
     "image_id": 38,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.59.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.59.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96968, 79.27812, 85.2m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:28:42",
+    "latitude": 15.96968,
+    "longitude": 79.27812,
+    "altitude": 85.2,
+    "direction": 257
   },
   {
     "image_id": 39,
@@ -372,28 +448,34 @@
     "image_id": 41,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.00.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.00.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96963, 79.27814, 86.1m, 75\u00b0",
+    "date_text": "Dec 28, 2025 13:28:58",
+    "latitude": 15.96963,
+    "longitude": 79.27814,
+    "altitude": 86.1,
+    "direction": 75
   },
   {
     "image_id": 42,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.01 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.01 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96963, 79.27801, 86.1m",
+    "date_text": "Dec 28, 2025 13:29:35",
+    "latitude": 15.96963,
+    "longitude": 79.27801,
+    "altitude": 86.1,
+    "direction": 0
   },
   {
     "image_id": 43,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.01 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.01 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.9697, 79.27802, 86.1m, 291\u00b0",
+    "date_text": "Dec 28, 2025 13:29:45",
+    "latitude": 15.9697,
+    "longitude": 79.27802,
+    "altitude": 86.1,
+    "direction": 291
   },
   {
     "image_id": 44,
@@ -408,136 +490,166 @@
     "image_id": 45,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.01.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.01.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96962, 79.27802, 86.5m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:29:31",
+    "latitude": 15.96962,
+    "longitude": 79.27802,
+    "altitude": 86.5,
+    "direction": 74
   },
   {
     "image_id": 46,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.02 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.02 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96976, 79.27802, 85.1m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:30:03",
+    "latitude": 15.96976,
+    "longitude": 79.27802,
+    "altitude": 85.1,
+    "direction": 276
   },
   {
     "image_id": 47,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.02 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.02 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96981, 79.27805, 85.9m, 85\u00b0",
+    "date_text": "Dec 28, 2025 13:30:14",
+    "latitude": 15.96981,
+    "longitude": 79.27805,
+    "altitude": 85.9,
+    "direction": 85
   },
   {
     "image_id": 48,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.02.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.02.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96976, 79.27804, 85.6m, 70\u00b0",
+    "date_text": "Dec 28, 2025 13:29:59",
+    "latitude": 15.96976,
+    "longitude": 79.27804,
+    "altitude": 85.6,
+    "direction": 70
   },
   {
     "image_id": 49,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.03 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.03 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96985, 79.27804, 85.6m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:30:26",
+    "latitude": 15.96985,
+    "longitude": 79.27804,
+    "altitude": 85.6,
+    "direction": 74
   },
   {
     "image_id": 50,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.03 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.03 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96986, 79.27802, 85.2m",
+    "date_text": "Dec 28, 2025 13:30:32",
+    "latitude": 15.96986,
+    "longitude": 79.27802,
+    "altitude": 85.2,
+    "direction": 0
   },
   {
     "image_id": 51,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.03.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.03.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96981, 79.27803, 86.0m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:30:18",
+    "latitude": 15.96981,
+    "longitude": 79.27803,
+    "altitude": 86.0,
+    "direction": 276
   },
   {
     "image_id": 52,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.04 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.04 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96992, 79.27803, 84.6m, 279\u00b0",
+    "date_text": "Dec 28, 2025 13:30:45",
+    "latitude": 15.96992,
+    "longitude": 79.27803,
+    "altitude": 84.6,
+    "direction": 279
   },
   {
     "image_id": 53,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.04 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.04 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96993, 79.27805, 84.8m, 89\u00b0",
+    "date_text": "Dec 28, 2025 13:30:51",
+    "latitude": 15.96993,
+    "longitude": 79.27805,
+    "altitude": 84.8,
+    "direction": 89
   },
   {
     "image_id": 54,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.04 (3).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.04 (3).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96998, 79.27806, 86.1m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:31:00",
+    "latitude": 15.96998,
+    "longitude": 79.27806,
+    "altitude": 86.1,
+    "direction": 74
   },
   {
     "image_id": 55,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.04.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.04.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96986, 79.27802, 84.9m",
+    "date_text": "Dec 28, 2025 13:30:35",
+    "latitude": 15.96986,
+    "longitude": 79.27802,
+    "altitude": 84.9,
+    "direction": 0
   },
   {
     "image_id": 56,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.05 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.05 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97001, 79.27804, 85.9m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:31:20",
+    "latitude": 15.97001,
+    "longitude": 79.27804,
+    "altitude": 85.9,
+    "direction": 283
   },
   {
     "image_id": 57,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.05 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.05 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97002, 79.27806, 86.2m, 91\u00b0",
+    "date_text": "Dec 28, 2025 13:31:26",
+    "latitude": 15.97002,
+    "longitude": 79.27806,
+    "altitude": 86.2,
+    "direction": 91
   },
   {
     "image_id": 58,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.05.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.05.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96997, 79.27804, 85.7m, 270\u00b0",
+    "date_text": "Dec 28, 2025 13:31:10",
+    "latitude": 15.96997,
+    "longitude": 79.27804,
+    "altitude": 85.7,
+    "direction": 270
   },
   {
     "image_id": 59,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.06 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.06 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97007, 79.27807, 85.6m, 95\u00b0",
+    "date_text": "Dec 28, 2025 13:31:45",
+    "latitude": 15.97007,
+    "longitude": 79.27807,
+    "altitude": 85.6,
+    "direction": 95
   },
   {
     "image_id": 60,
@@ -552,91 +664,111 @@
     "image_id": 61,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.06.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.06.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97006, 79.27804, 85.7m, 280\u00b0",
+    "date_text": "Dec 28, 2025 13:31:37",
+    "latitude": 15.97006,
+    "longitude": 79.27804,
+    "altitude": 85.7,
+    "direction": 280
   },
   {
     "image_id": 62,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.07 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.07 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97018, 79.27807, 87.1m, 76\u00b0",
+    "date_text": "Dec 28, 2025 13:32:11",
+    "latitude": 15.97018,
+    "longitude": 79.27807,
+    "altitude": 87.1,
+    "direction": 76
   },
   {
     "image_id": 63,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.07 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.07 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97018, 79.27804, 86.6m, 248\u00b0",
+    "date_text": "Dec 28, 2025 13:32:19",
+    "latitude": 15.97018,
+    "longitude": 79.27804,
+    "altitude": 86.6,
+    "direction": 248
   },
   {
     "image_id": 64,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.07.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.07.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97013, 79.27805, 86.1m, 268\u00b0",
+    "date_text": "Dec 28, 2025 13:32:00",
+    "latitude": 15.97013,
+    "longitude": 79.27805,
+    "altitude": 86.1,
+    "direction": 268
   },
   {
     "image_id": 65,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.08 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.08 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97022, 79.27805, 85.9m, 269\u00b0",
+    "date_text": "Dec 28, 2025 13:32:36",
+    "latitude": 15.97022,
+    "longitude": 79.27805,
+    "altitude": 85.9,
+    "direction": 269
   },
   {
     "image_id": 66,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.08 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.08 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97028, 79.27808, 86.3m, 75\u00b0",
+    "date_text": "Dec 28, 2025 13:32:47",
+    "latitude": 15.97028,
+    "longitude": 79.27808,
+    "altitude": 86.3,
+    "direction": 75
   },
   {
     "image_id": 67,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.08 (3).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.08 (3).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97028, 79.27805, 85.4m",
+    "date_text": "Dec 28, 2025 13:32:53",
+    "latitude": 15.97028,
+    "longitude": 79.27805,
+    "altitude": 85.4,
+    "direction": 0
   },
   {
     "image_id": 68,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.08.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.08.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97023, 79.27808, 86.3m, 77\u00b0",
+    "date_text": "Dec 28, 2025 13:32:31",
+    "latitude": 15.97023,
+    "longitude": 79.27808,
+    "altitude": 86.3,
+    "direction": 77
   },
   {
     "image_id": 69,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.09 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.09 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97033, 79.27806, 85.6m, 263\u00b0",
+    "date_text": "Dec 28, 2025 13:33:09",
+    "latitude": 15.97033,
+    "longitude": 79.27806,
+    "altitude": 85.6,
+    "direction": 263
   },
   {
     "image_id": 70,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.09 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.09 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97039, 79.27809, 85.7m, 85\u00b0",
+    "date_text": "Dec 28, 2025 13:33:22",
+    "latitude": 15.97039,
+    "longitude": 79.27809,
+    "altitude": 85.7,
+    "direction": 85
   },
   {
     "image_id": 71,
@@ -651,36 +783,44 @@
     "image_id": 72,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.10 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.10 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97044, 79.2781, 86.4m, 96\u00b0",
+    "date_text": "Dec 28, 2025 13:33:40",
+    "latitude": 15.97044,
+    "longitude": 79.2781,
+    "altitude": 86.4,
+    "direction": 96
   },
   {
     "image_id": 73,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.10 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.10 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97043, 79.27808, 86.5m, 260\u00b0",
+    "date_text": "Dec 28, 2025 13:33:47",
+    "latitude": 15.97043,
+    "longitude": 79.27808,
+    "altitude": 86.5,
+    "direction": 260
   },
   {
     "image_id": 74,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.10.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.10.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97039, 79.27807, 85.6m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:33:27",
+    "latitude": 15.97039,
+    "longitude": 79.27807,
+    "altitude": 85.6,
+    "direction": 276
   },
   {
     "image_id": 75,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.11.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.11.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97048, 79.27809, 86.5m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:34:04",
+    "latitude": 15.97048,
+    "longitude": 79.27809,
+    "altitude": 86.5,
+    "direction": 283
   }
 ]
