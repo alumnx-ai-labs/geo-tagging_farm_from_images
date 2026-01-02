@@ -90,6 +90,7 @@ def train():
         print("\nNo training data! Please run 2_prepare_data.py first")
         return
     
+    
     # Training configuration
     training_args = Seq2SeqTrainingArguments(
         output_dir="./models/checkpoints",
@@ -97,9 +98,9 @@ def train():
         per_device_eval_batch_size=4,
         num_train_epochs=50,
         learning_rate=5e-5,
-        fp16=False,  # Set to True if you have GPU
+        fp16=torch.cuda.is_available(),
         save_strategy="epoch",
-        evaluation_strategy="epoch",
+        eval_strategy="epoch",  # ← FIXED
         logging_steps=10,
         save_total_limit=3,
         load_best_model_at_end=True,
