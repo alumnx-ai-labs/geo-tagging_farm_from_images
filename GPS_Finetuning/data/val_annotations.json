@@ -1,0 +1,65 @@
+[
+  {
+    "image_id": 13,
+    "crop_path": "data\\crops\\crop_013.jpg",
+    "full_text": "15.97025, 79.27818, 86.9m, 92\u00b0\nDec 28, 2025 13:25:32",
+    "gps_text": "15.97025, 79.27818, 86.9m, 92\u00b0",
+    "date_text": "Dec 28, 2025 13:25:32",
+    "latitude": 15.97025,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 17,
+    "crop_path": "data\\crops\\crop_017.jpg",
+    "full_text": "15.9702, 79.27818, 87.0m, 87\u00b0\nDec 28, 2025 13:25:49",
+    "gps_text": "15.9702, 79.27818, 87.0m, 87\u00b0",
+    "date_text": "Dec 28, 2025 13:25:49",
+    "latitude": 15.9702,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 29,
+    "crop_path": "data\\crops\\crop_029.jpg",
+    "full_text": "15.96983, 79.27814, 88.2m, 257\u00b0\nDec 28, 2025 13:27:50",
+    "gps_text": "15.96983, 79.27814, 88.2m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:27:50",
+    "latitude": 15.96983,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 32,
+    "crop_path": "data\\crops\\crop_032.jpg",
+    "full_text": "15.96979, 79.27814, 85.8m, 80\u00b0\nDec 28, 2025 13:28:09",
+    "gps_text": "15.96979, 79.27814, 85.8m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:28:09",
+    "latitude": 15.96979,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 36,
+    "crop_path": "data\\crops\\crop_036.jpg",
+    "full_text": "15.96973, 79.27814, 85.3m, 74\u00b0\nDec 28, 2025 13:28:27",
+    "gps_text": "15.96973, 79.27814, 85.3m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:28:27",
+    "latitude": 15.96973,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 3,
+    "crop_path": "data\\crops\\crop_003.jpg",
+    "full_text": "15.97054, 79.27808, 87.5m, 283\u00b0\nDec 28, 2025 13:34:24",
+    "gps_text": "15.97054, 79.27808, 87.5m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:34:24",
+    "latitude": 15.97054,
+    "longitude": 79.27808
+  },
+  {
+    "image_id": 14,
+    "crop_path": "data\\crops\\crop_014.jpg",
+    "full_text": "15.97021, 79.27816, 86.7m, 241\u00b0\nDec 28, 2025 13:25:43",
+    "gps_text": "15.97021, 79.27816, 86.7m, 241\u00b0",
+    "date_text": "Dec 28, 2025 13:25:43",
+    "latitude": 15.97021,
+    "longitude": 79.27816
+  }
+]
