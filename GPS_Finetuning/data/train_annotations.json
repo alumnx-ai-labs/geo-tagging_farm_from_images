@@ -1,0 +1,569 @@
+[
+  {
+    "image_id": 15,
+    "crop_path": "data\\crops\\crop_015.jpg",
+    "full_text": "15.97026, 79.27817, 86.8m, 245\u00b0\nDec 28, 2025 13:25:27",
+    "gps_text": "15.97026, 79.27817, 86.8m, 245\u00b0",
+    "date_text": "Dec 28, 2025 13:25:27",
+    "latitude": 15.97026,
+    "longitude": 79.27817
+  },
+  {
+    "image_id": 72,
+    "crop_path": "data\\crops\\crop_072.jpg",
+    "full_text": "15.97044, 79.2781, 86.4m, 96\u00b0\nDec 28, 2025 13:33:40",
+    "gps_text": "15.97044, 79.2781, 86.4m, 96\u00b0",
+    "date_text": "Dec 28, 2025 13:33:40",
+    "latitude": 15.97044,
+    "longitude": 79.2781
+  },
+  {
+    "image_id": 6,
+    "crop_path": "data\\crops\\crop_006.jpg",
+    "full_text": "15.97042, 79.27818, 87.4m, 244\u00b0\nDec 28, 2025 13:24:45",
+    "gps_text": "15.97042, 79.27818, 87.4m, 244\u00b0",
+    "date_text": "Dec 28, 2025 13:24:45",
+    "latitude": 15.97042,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 46,
+    "crop_path": "data\\crops\\crop_046.jpg",
+    "full_text": "15.96976, 79.27802, 85.1m, 276\u00b0\nDec 28, 2025 13:30:03",
+    "gps_text": "15.96976, 79.27802, 85.1m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:30:03",
+    "latitude": 15.96976,
+    "longitude": 79.27802
+  },
+  {
+    "image_id": 7,
+    "crop_path": "data\\crops\\crop_007.jpg",
+    "full_text": "15.97036, 79.27803, 90.8m, 259\u00b0\nDec 28, 2025 13:35:07",
+    "gps_text": "15.97036, 79.27803, 90.8m, 259\u00b0",
+    "date_text": "Dec 28, 2025 13:35:07",
+    "latitude": 15.97036,
+    "longitude": 79.27803
+  },
+  {
+    "image_id": 23,
+    "crop_path": "data\\crops\\crop_023.jpg",
+    "full_text": "15.97048, 79.27811, 87.2m, 89\u00b0\nDec 28, 2025 13:34:10",
+    "gps_text": "15.97048, 79.27811, 87.2m, 89\u00b0",
+    "date_text": "Dec 28, 2025 13:34:10",
+    "latitude": 15.97048,
+    "longitude": 79.27811
+  },
+  {
+    "image_id": 42,
+    "crop_path": "data\\crops\\crop_042.jpg",
+    "full_text": "15.96963, 79.27801, 86.1m\nDec 28, 2025 13:29:35",
+    "gps_text": "15.96963, 79.27801, 86.1m",
+    "date_text": "Dec 28, 2025 13:29:35",
+    "latitude": 15.96963,
+    "longitude": 79.27801
+  },
+  {
+    "image_id": 19,
+    "crop_path": "data\\crops\\crop_019.jpg",
+    "full_text": "15.97009, 79.27816, 86.6m, 268\u00b0\nDec 28, 2025 13:26:23",
+    "gps_text": "15.97009, 79.27816, 86.6m, 268\u00b0",
+    "date_text": "Dec 28, 2025 13:26:23",
+    "latitude": 15.97009,
+    "longitude": 79.27816
+  },
+  {
+    "image_id": 16,
+    "crop_path": "data\\crops\\crop_016.jpg",
+    "full_text": "15.97016, 79.27816, 86.2m, 243\u00b0\nDec 28, 2025 13:25:59",
+    "gps_text": "15.97016, 79.27816, 86.2m, 243\u00b0",
+    "date_text": "Dec 28, 2025 13:25:59",
+    "latitude": 15.97016,
+    "longitude": 79.27816
+  },
+  {
+    "image_id": 57,
+    "crop_path": "data\\crops\\crop_057.jpg",
+    "full_text": "15.97002, 79.27806, 86.2m, 91\u00b0\nDec 28, 2025 13:31:26",
+    "gps_text": "15.97002, 79.27806, 86.2m, 91\u00b0",
+    "date_text": "Dec 28, 2025 13:31:26",
+    "latitude": 15.97002,
+    "longitude": 79.27806
+  },
+  {
+    "image_id": 54,
+    "crop_path": "data\\crops\\crop_054.jpg",
+    "full_text": "15.96998, 79.27806, 86.1m, 74\u00b0\nDec 28, 2025 13:31:00",
+    "gps_text": "15.96998, 79.27806, 86.1m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:31:00",
+    "latitude": 15.96998,
+    "longitude": 79.27806
+  },
+  {
+    "image_id": 43,
+    "crop_path": "data\\crops\\crop_043.jpg",
+    "full_text": "15.9697, 79.27802, 86.1m, 291\u00b0\nDec 28, 2025 13:29:45",
+    "gps_text": "15.9697, 79.27802, 86.1m, 291\u00b0",
+    "date_text": "Dec 28, 2025 13:29:45",
+    "latitude": 15.9697,
+    "longitude": 79.27802
+  },
+  {
+    "image_id": 4,
+    "crop_path": "data\\crops\\crop_004.jpg",
+    "full_text": "15.97047, 79.27818, 87.9m, 247\u00b0\nDec 28, 2025 13:24:33",
+    "gps_text": "15.97047, 79.27818, 87.9m, 247\u00b0",
+    "date_text": "Dec 28, 2025 13:24:33",
+    "latitude": 15.97047,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 21,
+    "crop_path": "data\\crops\\crop_021.jpg",
+    "full_text": "15.97005, 79.27815, 86.7m, 249\u00b0\nDec 28, 2025 13:26:32",
+    "gps_text": "15.97005, 79.27815, 86.7m, 249\u00b0",
+    "date_text": "Dec 28, 2025 13:26:32",
+    "latitude": 15.97005,
+    "longitude": 79.27815
+  },
+  {
+    "image_id": 67,
+    "crop_path": "data\\crops\\crop_067.jpg",
+    "full_text": "15.97028, 79.27805, 85.4m\nDec 28, 2025 13:32:53",
+    "gps_text": "15.97028, 79.27805, 85.4m",
+    "date_text": "Dec 28, 2025 13:32:53",
+    "latitude": 15.97028,
+    "longitude": 79.27805
+  },
+  {
+    "image_id": 26,
+    "crop_path": "data\\crops\\crop_026.jpg",
+    "full_text": "15.96993, 79.27815, 87.8m, 95\u00b0\nDec 28 2025 13:27:27",
+    "gps_text": "15.96993, 79.27815, 87.8m, 95\u00b0",
+    "date_text": "Dec 28 2025 13:27:27",
+    "latitude": 15.96993,
+    "longitude": 79.27815
+  },
+  {
+    "image_id": 30,
+    "crop_path": "data\\crops\\crop_030.jpg",
+    "full_text": "15.96989, 79.27813, 88.1m, 259\u00b0\nDec 28, 2025 13:27:36",
+    "gps_text": "15.96989, 79.27813, 88.1m, 259\u00b0",
+    "date_text": "Dec 28, 2025 13:27:36",
+    "latitude": 15.96989,
+    "longitude": 79.27813
+  },
+  {
+    "image_id": 34,
+    "crop_path": "data\\crops\\crop_034.jpg",
+    "full_text": "15.96979, 79.27812, 86.3m, 257\u00b0\nDec 28, 2025 13:28:05",
+    "gps_text": "15.96979, 79.27812, 86.3m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:28:05",
+    "latitude": 15.96979,
+    "longitude": 79.27812
+  },
+  {
+    "image_id": 48,
+    "crop_path": "data\\crops\\crop_048.jpg",
+    "full_text": "15.96976, 79.27804, 85.6m, 70\u00b0\nDec 28, 2025 13:29:59",
+    "gps_text": "15.96976, 79.27804, 85.6m, 70\u00b0",
+    "date_text": "Dec 28, 2025 13:29:59",
+    "latitude": 15.96976,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 52,
+    "crop_path": "data\\crops\\crop_052.jpg",
+    "full_text": "15.96992, 79.27803, 84.6m, 279\u00b0\nDec 28, 2025 13:30:45",
+    "gps_text": "15.96992, 79.27803, 84.6m, 279\u00b0",
+    "date_text": "Dec 28, 2025 13:30:45",
+    "latitude": 15.96992,
+    "longitude": 79.27803
+  },
+  {
+    "image_id": 8,
+    "crop_path": "data\\crops\\crop_008.jpg",
+    "full_text": "15.97037, 79.27818, 86.8m, 100\u00b0\nDec 28, 2025 13:24:59",
+    "gps_text": "15.97037, 79.27818, 86.8m, 100\u00b0",
+    "date_text": "Dec 28, 2025 13:24:59",
+    "latitude": 15.97037,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 20,
+    "crop_path": "data\\crops\\crop_020.jpg",
+    "full_text": "15.97014, 79.27818, 85.7m, 83\u00b0\nDec 28, 2025 13:26:05",
+    "gps_text": "15.97014, 79.27818, 85.7m, 83\u00b0",
+    "date_text": "Dec 28, 2025 13:26:05",
+    "latitude": 15.97014,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 24,
+    "crop_path": "data\\crops\\crop_024.jpg",
+    "full_text": "15.96996, 79.27814, 88.7m, 63\u00b0\nDec 28, 2025 13:27:01",
+    "gps_text": "15.96996, 79.27814, 88.7m, 63\u00b0",
+    "date_text": "Dec 28, 2025 13:27:01",
+    "latitude": 15.96996,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 11,
+    "crop_path": "data\\crops\\crop_011.jpg",
+    "full_text": "15.97031, 79.27817, 86.6m, 263\u00b0\nDec 28, 2025 13:25:20",
+    "gps_text": "15.97031, 79.27817, 86.6m, 263\u00b0",
+    "date_text": "Dec 28, 2025 13:25:20",
+    "latitude": 15.97031,
+    "longitude": 79.27817
+  },
+  {
+    "image_id": 66,
+    "crop_path": "data\\crops\\crop_066.jpg",
+    "full_text": "15.97028, 79.27808, 86.3m, 75\u00b0\nDec 28, 2025 13:32:47",
+    "gps_text": "15.97028, 79.27808, 86.3m, 75\u00b0",
+    "date_text": "Dec 28, 2025 13:32:47",
+    "latitude": 15.97028,
+    "longitude": 79.27808
+  },
+  {
+    "image_id": 50,
+    "crop_path": "data\\crops\\crop_050.jpg",
+    "full_text": "15.96986, 79.27802, 85.2m\nDec 28, 2025 13:30:32",
+    "gps_text": "15.96986, 79.27802, 85.2m",
+    "date_text": "Dec 28, 2025 13:30:32",
+    "latitude": 15.96986,
+    "longitude": 79.27802
+  },
+  {
+    "image_id": 59,
+    "crop_path": "data\\crops\\crop_059.jpg",
+    "full_text": "15.97007, 79.27807, 85.6m, 95\u00b0\nDec 28, 2025 13:31:45",
+    "gps_text": "15.97007, 79.27807, 85.6m, 95\u00b0",
+    "date_text": "Dec 28, 2025 13:31:45",
+    "latitude": 15.97007,
+    "longitude": 79.27807
+  },
+  {
+    "image_id": 74,
+    "crop_path": "data\\crops\\crop_074.jpg",
+    "full_text": "15.97039, 79.27807, 85.6m, 276\u00b0\nDec 28, 2025 13:33:27",
+    "gps_text": "15.97039, 79.27807, 85.6m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:33:27",
+    "latitude": 15.97039,
+    "longitude": 79.27807
+  },
+  {
+    "image_id": 37,
+    "crop_path": "data\\crops\\crop_037.jpg",
+    "full_text": "15.96963, 79.27812, 85.9m, 247\u00b0\nDec 28, 2025 13:28:52",
+    "gps_text": "15.96963, 79.27812, 85.9m, 247\u00b0",
+    "date_text": "Dec 28, 2025 13:28:52",
+    "latitude": 15.96963,
+    "longitude": 79.27812
+  },
+  {
+    "image_id": 25,
+    "crop_path": "data\\crops\\crop_025.jpg",
+    "full_text": "15.96998, 79.27814, 87.0m, 272\u00b0\nDec 28, 2025 13:26:53",
+    "gps_text": "15.96998, 79.27814, 87.0m, 272\u00b0",
+    "date_text": "Dec 28, 2025 13:26:53",
+    "latitude": 15.96998,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 31,
+    "crop_path": "data\\crops\\crop_031.jpg",
+    "full_text": "15.96984, 79.27815, 87.1m, 80\u00b0\nDec 28, 2025 13:27:55",
+    "gps_text": "15.96984, 79.27815, 87.1m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:27:55",
+    "latitude": 15.96984,
+    "longitude": 79.27815
+  },
+  {
+    "image_id": 56,
+    "crop_path": "data\\crops\\crop_056.jpg",
+    "full_text": "15.97001, 79.27804, 85.9m, 283\u00b0\nDec 28, 2025 13:31:20",
+    "gps_text": "15.97001, 79.27804, 85.9m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:31:20",
+    "latitude": 15.97001,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 9,
+    "crop_path": "data\\crops\\crop_009.jpg",
+    "full_text": "15.97036, 79.27817, 86.9m, 253\u00b0\nDec 28, 2025 13:25:04",
+    "gps_text": "15.97036, 79.27817, 86.9m, 253\u00b0",
+    "date_text": "Dec 28, 2025 13:25:04",
+    "latitude": 15.97036,
+    "longitude": 79.27817
+  },
+  {
+    "image_id": 53,
+    "crop_path": "data\\crops\\crop_053.jpg",
+    "full_text": "15.96993, 79.27805, 84.8m, 89\u00b0\nDec 28, 2025 13:30:51",
+    "gps_text": "15.96993, 79.27805, 84.8m, 89\u00b0",
+    "date_text": "Dec 28, 2025 13:30:51",
+    "latitude": 15.96993,
+    "longitude": 79.27805
+  },
+  {
+    "image_id": 22,
+    "crop_path": "data\\crops\\crop_022.jpg",
+    "full_text": "15.97004, 79.27816, 87.1m, 80\u00b0\nDec 28, 2025 13:26:42",
+    "gps_text": "15.97004, 79.27816, 87.1m, 80\u00b0",
+    "date_text": "Dec 28, 2025 13:26:42",
+    "latitude": 15.97004,
+    "longitude": 79.27816
+  },
+  {
+    "image_id": 61,
+    "crop_path": "data\\crops\\crop_061.jpg",
+    "full_text": "15.97006, 79.27804, 85.7m, 280\u00b0\nDec 28, 2025 13:31:37",
+    "gps_text": "15.97006, 79.27804, 85.7m, 280\u00b0",
+    "date_text": "Dec 28, 2025 13:31:37",
+    "latitude": 15.97006,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 10,
+    "crop_path": "data\\crops\\crop_010.jpg",
+    "full_text": "15.97041, 79.27819, 1.0m, 94\u00b0\nDec 28, 2025 13:24:50",
+    "gps_text": "15.97041, 79.27819, 1.0m, 94\u00b0",
+    "date_text": "Dec 28, 2025 13:24:50",
+    "latitude": 15.97041,
+    "longitude": 79.27819
+  },
+  {
+    "image_id": 0,
+    "crop_path": "data\\crops\\crop_000.jpg",
+    "full_text": "15.97053, 79.27811, 87.4m, 59\u00b0\nDec 28, 2025 13:34:19",
+    "gps_text": "15.97053, 79.27811, 87.4m, 59\u00b0",
+    "date_text": "Dec 28, 2025 13:34:19",
+    "latitude": 15.97053,
+    "longitude": 79.27811
+  },
+  {
+    "image_id": 69,
+    "crop_path": "data\\crops\\crop_069.jpg",
+    "full_text": "15.97033, 79.27806, 85.6m, 263\u00b0\nDec 28, 2025 13:33:09",
+    "gps_text": "15.97033, 79.27806, 85.6m, 263\u00b0",
+    "date_text": "Dec 28, 2025 13:33:09",
+    "latitude": 15.97033,
+    "longitude": 79.27806
+  },
+  {
+    "image_id": 65,
+    "crop_path": "data\\crops\\crop_065.jpg",
+    "full_text": "15.97022, 79.27805, 85.9m, 269\u00b0\nDec 28, 2025 13:32:36",
+    "gps_text": "15.97022, 79.27805, 85.9m, 269\u00b0",
+    "date_text": "Dec 28, 2025 13:32:36",
+    "latitude": 15.97022,
+    "longitude": 79.27805
+  },
+  {
+    "image_id": 70,
+    "crop_path": "data\\crops\\crop_070.jpg",
+    "full_text": "15.97039, 79.27809, 85.7m, 85\u00b0\nDec 28, 2025 13:33:22",
+    "gps_text": "15.97039, 79.27809, 85.7m, 85\u00b0",
+    "date_text": "Dec 28, 2025 13:33:22",
+    "latitude": 15.97039,
+    "longitude": 79.27809
+  },
+  {
+    "image_id": 55,
+    "crop_path": "data\\crops\\crop_055.jpg",
+    "full_text": "15.96986, 79.27802, 84.9m\nDec 28, 2025 13:30:35",
+    "gps_text": "15.96986, 79.27802, 84.9m",
+    "date_text": "Dec 28, 2025 13:30:35",
+    "latitude": 15.96986,
+    "longitude": 79.27802
+  },
+  {
+    "image_id": 27,
+    "crop_path": "data\\crops\\crop_027.jpg",
+    "full_text": "15.96993, 79.27813, 88.1m, 256\u00b0\nDec 28, 2025 13:27:22",
+    "gps_text": "15.96993, 79.27813, 88.1m, 256\u00b0",
+    "date_text": "Dec 28, 2025 13:27:22",
+    "latitude": 15.96993,
+    "longitude": 79.27813
+  },
+  {
+    "image_id": 64,
+    "crop_path": "data\\crops\\crop_064.jpg",
+    "full_text": "15.97013, 79.27805, 86.1m, 268\u00b0\nDec 28, 2025 13:32:00",
+    "gps_text": "15.97013, 79.27805, 86.1m, 268\u00b0",
+    "date_text": "Dec 28, 2025 13:32:00",
+    "latitude": 15.97013,
+    "longitude": 79.27805
+  },
+  {
+    "image_id": 45,
+    "crop_path": "data\\crops\\crop_045.jpg",
+    "full_text": "15.96962, 79.27802, 86.5m, 74\u00b0\nDec 28, 2025 13:29:31",
+    "gps_text": "15.96962, 79.27802, 86.5m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:29:31",
+    "latitude": 15.96962,
+    "longitude": 79.27802
+  },
+  {
+    "image_id": 49,
+    "crop_path": "data\\crops\\crop_049.jpg",
+    "full_text": "15.96985, 79.27804, 85.6m, 74\u00b0\nDec 28, 2025 13:30:26",
+    "gps_text": "15.96985, 79.27804, 85.6m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:30:26",
+    "latitude": 15.96985,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 12,
+    "crop_path": "data\\crops\\crop_012.jpg",
+    "full_text": "15.97031, 79.27819, 86.7m, 93\u00b0\nDec 28, 2025 13:25:14",
+    "gps_text": "15.97031, 79.27819, 86.7m, 93\u00b0",
+    "date_text": "Dec 28, 2025 13:25:14",
+    "latitude": 15.97031,
+    "longitude": 79.27819
+  },
+  {
+    "image_id": 73,
+    "crop_path": "data\\crops\\crop_073.jpg",
+    "full_text": "15.97043, 79.27808, 86.5m, 260\u00b0\nDec 28, 2025 13:33:47",
+    "gps_text": "15.97043, 79.27808, 86.5m, 260\u00b0",
+    "date_text": "Dec 28, 2025 13:33:47",
+    "latitude": 15.97043,
+    "longitude": 79.27808
+  },
+  {
+    "image_id": 58,
+    "crop_path": "data\\crops\\crop_058.jpg",
+    "full_text": "15.96997, 79.27804, 85.7m, 270\u00b0\nDec 28, 2025 13:31:10",
+    "gps_text": "15.96997, 79.27804, 85.7m, 270\u00b0",
+    "date_text": "Dec 28, 2025 13:31:10",
+    "latitude": 15.96997,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 41,
+    "crop_path": "data\\crops\\crop_041.jpg",
+    "full_text": "15.96963, 79.27814, 86.1m, 75\u00b0\nDec 28, 2025 13:28:58",
+    "gps_text": "15.96963, 79.27814, 86.1m, 75\u00b0",
+    "date_text": "Dec 28, 2025 13:28:58",
+    "latitude": 15.96963,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 33,
+    "crop_path": "data\\crops\\crop_033.jpg",
+    "full_text": "15.96974, 79.27812, 85.6m, 244\u00b0\nDec 28, 2025 13:28:19",
+    "gps_text": "15.96974, 79.27812, 85.6m, 244\u00b0",
+    "date_text": "Dec 28, 2025 13:28:19",
+    "latitude": 15.96974,
+    "longitude": 79.27812
+  },
+  {
+    "image_id": 75,
+    "crop_path": "data\\crops\\crop_075.jpg",
+    "full_text": "15.97048, 79.27809, 86.5m, 283\u00b0\nDec 28, 2025 13:34:04",
+    "gps_text": "15.97048, 79.27809, 86.5m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:34:04",
+    "latitude": 15.97048,
+    "longitude": 79.27809
+  },
+  {
+    "image_id": 68,
+    "crop_path": "data\\crops\\crop_068.jpg",
+    "full_text": "15.97023, 79.27808, 86.3m, 77\u00b0\nDec 28, 2025 13:32:31",
+    "gps_text": "15.97023, 79.27808, 86.3m, 77\u00b0",
+    "date_text": "Dec 28, 2025 13:32:31",
+    "latitude": 15.97023,
+    "longitude": 79.27808
+  },
+  {
+    "image_id": 63,
+    "crop_path": "data\\crops\\crop_063.jpg",
+    "full_text": "15.97018, 79.27804, 86.6m, 248\u00b0\nDec 28, 2025 13:32:19",
+    "gps_text": "15.97018, 79.27804, 86.6m, 248\u00b0",
+    "date_text": "Dec 28, 2025 13:32:19",
+    "latitude": 15.97018,
+    "longitude": 79.27804
+  },
+  {
+    "image_id": 1,
+    "crop_path": "data\\crops\\crop_001.jpg",
+    "full_text": "15.97047, 79.27803, 88.3m\nDec 28, 2025 13:34:49",
+    "gps_text": "15.97047, 79.27803, 88.3m",
+    "date_text": "Dec 28, 2025 13:34:49",
+    "latitude": 15.97047,
+    "longitude": 79.27803
+  },
+  {
+    "image_id": 2,
+    "crop_path": "data\\crops\\crop_002.jpg",
+    "full_text": "15.97042, 79.27803, 89.6m, 236\u00b0\nDec 28, 2025 13:34:55",
+    "gps_text": "15.97042, 79.27803, 89.6m, 236\u00b0",
+    "date_text": "Dec 28, 2025 13:34:55",
+    "latitude": 15.97042,
+    "longitude": 79.27803
+  },
+  {
+    "image_id": 28,
+    "crop_path": "data\\crops\\crop_028.jpg",
+    "full_text": "15.96987, 79.27814, 88.1m, 99\u00b0\nDec 28, 2025 13:27:40",
+    "gps_text": "15.96987, 79.27814, 88.1m, 99\u00b0",
+    "date_text": "Dec 28, 2025 13:27:40",
+    "latitude": 15.96987,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 38,
+    "crop_path": "data\\crops\\crop_038.jpg",
+    "full_text": "15.96968, 79.27812, 85.2m, 257\u00b0\nDec 28, 2025 13:28:42",
+    "gps_text": "15.96968, 79.27812, 85.2m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:28:42",
+    "latitude": 15.96968,
+    "longitude": 79.27812
+  },
+  {
+    "image_id": 5,
+    "crop_path": "data\\crops\\crop_005.jpg",
+    "full_text": "15.97053, 79.27818, 6.0m, 235\u00b0\nDec 28, 2025 13:24:15",
+    "gps_text": "15.97053, 79.27818, 6.0m, 235\u00b0",
+    "date_text": "Dec 28, 2025 13:24:15",
+    "latitude": 15.97053,
+    "longitude": 79.27818
+  },
+  {
+    "image_id": 35,
+    "crop_path": "data\\crops\\crop_035.jpg",
+    "full_text": "15.96969, 79.27814, 85.2m\nDec 28, 2025 13:28:36",
+    "gps_text": "15.96969, 79.27814, 85.2m",
+    "date_text": "Dec 28, 2025 13:28:36",
+    "latitude": 15.96969,
+    "longitude": 79.27814
+  },
+  {
+    "image_id": 62,
+    "crop_path": "data\\crops\\crop_062.jpg",
+    "full_text": "15.97018, 79.27807, 87.1m, 76\u00b0\nDec 28, 2025 13:32:11",
+    "gps_text": "15.97018, 79.27807, 87.1m, 76\u00b0",
+    "date_text": "Dec 28, 2025 13:32:11",
+    "latitude": 15.97018,
+    "longitude": 79.27807
+  },
+  {
+    "image_id": 51,
+    "crop_path": "data\\crops\\crop_051.jpg",
+    "full_text": "15.96981, 79.27803, 86.0m, 276\u00b0\nDec 28, 2025 13:30:18",
+    "gps_text": "15.96981, 79.27803, 86.0m, 276\u00b0",
+    "date_text": "Dec 28, 2025 13:30:18",
+    "latitude": 15.96981,
+    "longitude": 79.27803
+  },
+  {
+    "image_id": 47,
+    "crop_path": "data\\crops\\crop_047.jpg",
+    "full_text": "15.96981, 79.27805, 85.9m, 85\u00b0\nDec 28, 2025 13:30:14",
+    "gps_text": "15.96981, 79.27805, 85.9m, 85\u00b0",
+    "date_text": "Dec 28, 2025 13:30:14",
+    "latitude": 15.96981,
+    "longitude": 79.27805
+  }
+]
