@@ -201,10 +201,12 @@
     "image_id": 18,
     "filename": "WhatsApp Image 2025-12-29 at 12.02.49 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.02.49 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97021,79.27816,86.7m,241\u00b0",
+    "date_text": "Dec 28, 2025 13:26:23",
+    "latitude": 15.97021,
+    "longitude": 79.27816,
+    "altitude": 86.7,
+    "direction": 241
   },
   {
     "image_id": 19,
@@ -430,19 +432,23 @@
     "image_id": 39,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.00 (1).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.00 (1).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96985, 79.27804, 85.6m, 74\u00b0",
+    "date_text": "Dec 28, 2025 13:28:58",
+    "latitude": 15.96985,
+    "longitude": 9.27804,
+    "altitude": 85.6,
+    "direction": 74
   },
   {
     "image_id": 40,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.00 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.00 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96986, 79.27802, 85.2m, 273\u00b0",
+    "date_text": "Dec 28, 2025 13:28:58",
+    "latitude": 15.96986,
+    "longitude": 79.27802,
+    "altitude": 85.2,
+    "direction": 273
   },
   {
     "image_id": 41,
@@ -655,10 +661,12 @@
     "image_id": 60,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.06 (2).jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.06 (2).jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.97048, 79.27809, 86.5m, 283\u00b0",
+    "date_text": "Dec 28, 2025 13:31:37",
+    "latitude": 15.97048,
+    "longitude": 79.27809,
+    "altitude": 86.5,
+    "direction": 283
   },
   {
     "image_id": 61,
@@ -774,10 +782,12 @@
     "image_id": 71,
     "filename": "WhatsApp Image 2025-12-29 at 12.03.09.jpeg",
     "image_path": "E:\\HP\\Alumnx\\AgriGPT_Project\\Latitude_Longitude\\Clone\\gps_finetuning\\data\\images\\WhatsApp Image 2025-12-29 at 12.03.09.jpeg",
-    "gps_text": "",
-    "date_text": "",
-    "latitude": 0.0,
-    "longitude": 0.0
+    "gps_text": "15.96968, 79.27812, 85.2m, 257\u00b0",
+    "date_text": "Dec 28, 2025 13:33:40",
+    "latitude": 15.96968,
+    "longitude": 79.2781,
+    "altitude": 85.2,
+    "direction": 257
   },
   {
     "image_id": 72,
